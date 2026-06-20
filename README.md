@@ -25,9 +25,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=saif76r&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saif76r&currStreak=700&maxStreak=700&count_private=true&theme=tokyonight)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif76r&layout=compact&langs_count=4&theme=tokyonight&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
