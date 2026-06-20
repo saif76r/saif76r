@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Cybersecurity Anomaly Detection system and building responsive web interfaces to visualize real-time network data.<br><br>👯 I’m looking to collaborate on Full-Stack projects that integrate AI features or security-first web applications.<br><br>🤝 I’m looking for help with fine-tuning LLMs for specific technical documentation or security research.<br><br>🌱 I’m currently learning how to deploy AI models into production web environments and advanced penetration testing.<br><br>💬 Ask me about Web Development, AI integration, or my favorite Kali Linux tools.<br><br>⚡ Fun fact I’m a firm believer that the best websites are the ones that look great and can’t be easily breached.
+🔭 I’m currently working on a Cybersecurity Anomaly Detection system and building responsive web interfaces to visualize real-time network data.<br><br>👯 I’m looking to collaborate on Full-Stack projects that integrate AI features or security-first web applications.<br><br>🤝 I’m looking for help with fine-tuning LLMs for specific technical documentation or security research
 
 
 ## 🌐 Socials:
