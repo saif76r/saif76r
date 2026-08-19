@@ -1,41 +1,58 @@
-# welcome!
+<h1 align="center">welcome to my space ⚡</h1>
 
-Hey there! My name is Meer Md. Saif, studying software engineering. Besides coding, I do cybersecurity and full-stack development!
+<p align="center">
+  <i>"those who break the rules are scum, but those who abandon their friends are worse than scum."</i>
+</p>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-### about me
-
-* 🎓 software engineering undergrad @ DIU
-* 💼 software engineering trainee & IT lead
-* 🛡️ currently exploring web app security & anomaly detection
-* ⚡ love playing naraka: bladepoint & exploring kali tools
-* 📬 reach out to me: saif.dev@gmail.com
-* 🌐 check out my [linkedin](https://linkedin.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_&_Learning-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-1679A7?style=for-the-badge&logoColor=white" />
+</p>
 
 <br/>
 
-<!-- Kakashi Pixel/Anime GIF -->
-<img src="https://raw.githubusercontent.com/gist/assets/kakashi.gif" width="160" alt="Kakashi Hatake"/>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
+### 🎯 about me
+
+* 🎓 **degree:** b.sc. in software engineering @ daffodil international university
+* 💼 **role:** software engineering trainee & assistant director (it)
+* 🛡️ **focus:** web application security, anomaly detection & full-stack development
+* 🎮 **hobbies:** playing *naraka: bladepoint*, exploring kali linux tools
+* 📬 **contact:** reach out via [email](mailto:saif.dev@gmail.com) • [linkedin](https://linkedin.com)
 
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="40%" align="center" valign="middle">
 
-<!-- Aesthetic Pixel Art Scenery -->
-<img src="https://i.pinimg.com/originals/a7/3d/6e/a73d6e1d234a9844207f9011e48f764a.gif" width="100%" style="border-radius: 8px;" alt="Pixel Art Banner"/>
+<!-- High quality Kakashi GIF asset reference -->
+<img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="100%" style="border-radius: 10px;" alt="Kakashi Hatake"/>
 
     </td>
   </tr>
 </table>
 
+<br/>
+
+### 🛠️ tech stack
+
+**languages & core**
+`java` • `python` • `c++` • `javascript` • `bash`
+
+**web & database**
+`react` • `tailwind css` • `flask` • `supabase` • `firebase`
+
+**cybersecurity & tools**
+`kali linux` • `wireshark` • `nmap` • `metasploit` • `git`
+
+<br/>
+
 ---
 
-### tech stack
+<div align="center">
 
-`java` • `python` • `c++` • `javascript` • `bash` • `react` • `tailwind` • `flask` • `supabase` • `kali linux` • `wireshark` • `nmap`
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
----
-
-*"those who break the rules are scum, but those who abandon their friends are worse than scum."*
+</div>
