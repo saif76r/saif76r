@@ -17,13 +17,13 @@ Hey there! My name is Meer Md. Saif, studying software engineering. Besides codi
 
 <br/>
 
-<!-- Kakashi GIF / Image -->
-<img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="180" alt="Kakashi Animation"/>
+<!-- Kakashi Pixel/Anime GIF -->
+<img src="https://raw.githubusercontent.com/gist/assets/kakashi.gif" width="160" alt="Kakashi Hatake"/>
 
     </td>
     <td width="45%" align="center" valign="top">
 
-<!-- Main Aesthetic Banner -->
+<!-- Aesthetic Pixel Art Scenery -->
 <img src="https://i.pinimg.com/originals/a7/3d/6e/a73d6e1d234a9844207f9011e48f764a.gif" width="100%" style="border-radius: 8px;" alt="Pixel Art Banner"/>
 
     </td>
