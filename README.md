@@ -27,8 +27,8 @@
     </td>
     <td width="40%" align="center" valign="middle">
 
-<!-- High quality Kakashi GIF asset reference -->
-<img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="100%" style="border-radius: 10px;" alt="Kakashi Hatake"/>
+<!-- Your Kakashi GIF -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiOWRpeW5vcndibDF6c3puemN0YTN5b200dDU5bTVldTZucTJnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" width="100%" style="border-radius: 10px;" alt="Kakashi Hatake"/>
 
     </td>
   </tr>
@@ -53,6 +53,6 @@
 
 <div align="center">
 
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saif76r&show_icons=true&theme=dark&hide_border=true)
 
 </div>
