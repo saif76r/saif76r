@@ -27,8 +27,8 @@
     </td>
     <td width="40%" align="center" valign="middle">
 
-<!-- Your Kakashi GIF -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiOWRpeW5vcndibDF6c3puemN0YTN5b200dDU5bTVldTZucTJnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" width="100%" style="border-radius: 10px;" alt="Kakashi Hatake"/>
+<!-- Kakashi Tenor GIF -->
+<img src="https://media.tenor.com/B4GDeZ_RN2cAAAAj/kakashi-hatake-kakashi.gif" width="100%" style="border-radius: 10px;" alt="Kakashi Hatake"/>
 
     </td>
   </tr>
