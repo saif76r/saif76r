@@ -136,7 +136,7 @@ public class MeerSaif {
 ## 🧠 Currently Learning
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/BRANCH/assets/skill-bars.svg" width="80%">
+<img src="https://raw.githubusercontent.com/saif76r/saif76r/main/assets/skill-bars.svg" width="80%">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:FF0000,100:1a0000&height=4&width=100%&animation=twinkling" width="100%">
