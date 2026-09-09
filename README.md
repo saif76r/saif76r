@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saif76r/main/assets/sharingan-banner.svg" width="100%">
+<img src="https://raw.githubusercontent.com/saif76r/saif76r/main/assets/sharingan-banner.svg" width="100%">
 
 <br>
 
