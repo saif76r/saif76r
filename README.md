@@ -205,7 +205,7 @@ public class MeerSaif {
 
 ### ⚡ Keep Coding. Keep Learning. Keep Breaking Things.
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/BRANCH/assets/footer-terminal.svg" width="70%">
+<img src="https://raw.githubusercontent.com/saif76r/saif76r/main/assets/footer-terminal.svg" width="70%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:FF0000,100:8B0000&height=100&section=footer" width="100%">
 
