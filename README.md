@@ -166,7 +166,7 @@ public class MeerSaif {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:FF0000,100:1a0000&height=4&width=100%&animation=twinkling" width="100%">
 
-<img src="https://media1.tenor.com/m/TwXyz8OMEsEAAAAd/itachi-uchiha-uchiha.gif" width="280" align="right">
+<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="280" align="right">
 
 ## 🎯 2026 Goals
 
